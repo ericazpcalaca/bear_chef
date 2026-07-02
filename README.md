@@ -1,4 +1,4 @@
-# 🐻 BC Bear Chefs
+# BC Bear Chefs
 
 A full-stack web platform that connects culinary talent with individuals seeking fine dining experiences — a marketplace where users can book private chefs for meals, cooking classes, and special events.
 
